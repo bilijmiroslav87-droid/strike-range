@@ -1,6 +1,1 @@
-Strike Range: 3D model credits (all CC0 / public domain, OpenGameArt.org)
-- Soviet Assault Rifle (AK) and Soviet Special Sniper Rifle: GGBotNet, CC0
-- M9 knife (PBR): CC0
-- Medieval Knife PBR: CC0
-- FPS Pack pistol: CC0
-Engine: three.js (MIT). All textures, maps, bots, sounds are generated procedurally.
+Cube Strike. Everything is procedural: cube bots, cube weapons, blocky maps, synthesized sound. Engine: three.js (MIT).
